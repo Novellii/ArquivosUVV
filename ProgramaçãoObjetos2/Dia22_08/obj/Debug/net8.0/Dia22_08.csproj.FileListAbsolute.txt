@@ -1,0 +1,14 @@
+C:\DevC\Dia22_08\bin\Debug\net8.0\Dia22_08.exe
+C:\DevC\Dia22_08\bin\Debug\net8.0\Dia22_08.deps.json
+C:\DevC\Dia22_08\bin\Debug\net8.0\Dia22_08.runtimeconfig.json
+C:\DevC\Dia22_08\bin\Debug\net8.0\Dia22_08.dll
+C:\DevC\Dia22_08\bin\Debug\net8.0\Dia22_08.pdb
+C:\DevC\Dia22_08\obj\Debug\net8.0\Dia22_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\Dia22_08\obj\Debug\net8.0\Dia22_08.AssemblyInfoInputs.cache
+C:\DevC\Dia22_08\obj\Debug\net8.0\Dia22_08.AssemblyInfo.cs
+C:\DevC\Dia22_08\obj\Debug\net8.0\Dia22_08.csproj.CoreCompileInputs.cache
+C:\DevC\Dia22_08\obj\Debug\net8.0\Dia22_08.dll
+C:\DevC\Dia22_08\obj\Debug\net8.0\refint\Dia22_08.dll
+C:\DevC\Dia22_08\obj\Debug\net8.0\Dia22_08.pdb
+C:\DevC\Dia22_08\obj\Debug\net8.0\Dia22_08.genruntimeconfig.cache
+C:\DevC\Dia22_08\obj\Debug\net8.0\ref\Dia22_08.dll

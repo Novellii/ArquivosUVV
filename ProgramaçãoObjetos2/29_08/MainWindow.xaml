@@ -1,0 +1,29 @@
+﻿<Window x:Class="_29_08.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_29_08"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.5,0.5">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF6732FF"/>
+                <GradientStop Color="#FF874EDE" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.381"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Label Content="Criador de Framboesas" HorizontalAlignment="Left" Margin="20,15,0,0" VerticalAlignment="Top" FontSize="68" FontWeight="Bold" Height="97" Width="755"/>
+        <Button x:Name="ButtonContador" Content="Criar Framboesas" HorizontalAlignment="Left" Margin="581,288,0,0" VerticalAlignment="Top" Height="89" Width="199" FontSize="22" Background="#CCF9DEFF" Click="ButtonContador_Click"/>
+        <Label x:Name="LabelContador" Content="0" HorizontalAlignment="Left" Margin="652,172,0,0" VerticalAlignment="Top" FontSize="72"/>
+
+    </Grid>
+</Window>
